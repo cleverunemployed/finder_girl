@@ -1,0 +1,320 @@
+[
+    {
+        "domain": "vk.com",
+        "expiry": 1764854735,
+        "httpOnly": true,
+        "name": "httoken",
+        "path": "/",
+        "sameSite": "None",
+        "secure": true,
+        "value": "WK2kzOMzabjW6w4aAXT6NGN-J7pX8b3l9yVthy_PT1C2lDg1-kFQui8wxCl1mFQsj76vA_SjyruIQYhGTeOGQs781Bxeo_Ht43iP22FLsk57oaBLSHoiszGgrDLUeoafQj0"
+    },
+    {
+        "domain": "vk.com",
+        "expiry": 1764937479,
+        "httpOnly": false,
+        "name": "tmr_detect",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "0%7C1764851079160"
+    },
+    {
+        "domain": "vk.com",
+        "expiry": 1796060411,
+        "httpOnly": true,
+        "name": "remixdmgr",
+        "path": "/",
+        "sameSite": "None",
+        "secure": true,
+        "value": "df791b3d10385f97c3e6546b63dcfe12756005c0bc3209900703eeffca647586"
+    },
+    {
+        "domain": "vk.com",
+        "expiry": 1796039217,
+        "httpOnly": true,
+        "name": "remixnsid",
+        "path": "/",
+        "sameSite": "None",
+        "secure": true,
+        "value": "vk1.a.nBS9ci6V4MqTvEokfF7HbQc1R1dMqV5KkvQnIqqFmqeuu5EOVd7uwRJKnh1gw4E1Kw8wt1c4SBpj8VI8TuO3fBm9H35iLFNRPaYZNzaK2SK8IhaL9P2xEJczB0kSSQsxtnZq2MMBRcA6Jcit3ac1NtZSF0icAe6m5vAVXH9GD1yodTp22ZKz8imeZBx96GoW"
+    },
+    {
+        "domain": "vk.com",
+        "expiry": 1764865473,
+        "httpOnly": true,
+        "name": "remixdmgr_tmp",
+        "path": "/",
+        "sameSite": "None",
+        "secure": true,
+        "value": "2df0c397aadb657fc500f4c41d2862038150e1b22f1cf74accf84a1bb9c9966c"
+    },
+    {
+        "domain": "vk.com",
+        "expiry": 1796181528,
+        "httpOnly": true,
+        "name": "remixuas",
+        "path": "/",
+        "sameSite": "None",
+        "secure": true,
+        "value": "OTUwMTg5NDBjYWRmMWRhMzg4OTExZDc0"
+    },
+    {
+        "domain": "vk.com",
+        "httpOnly": false,
+        "name": "remixcurr_audio",
+        "path": "/",
+        "sameSite": "None",
+        "secure": true,
+        "value": "null"
+    },
+    {
+        "domain": "vk.com",
+        "expiry": 1795830536,
+        "httpOnly": true,
+        "name": "remixsuc",
+        "path": "/",
+        "sameSite": "None",
+        "secure": true,
+        "value": "1%3A"
+    },
+    {
+        "domain": "vk.com",
+        "expiry": 1796620898,
+        "httpOnly": false,
+        "name": "remixua",
+        "path": "/",
+        "sameSite": "None",
+        "secure": true,
+        "value": "43%7C-1%7C208%7C3047666959"
+    },
+    {
+        "domain": "vk.com",
+        "expiry": 1765455875,
+        "httpOnly": false,
+        "name": "remixscreen_orient",
+        "path": "/",
+        "sameSite": "None",
+        "secure": true,
+        "value": "1"
+    },
+    {
+        "domain": "vk.com",
+        "expiry": 1796383892,
+        "httpOnly": false,
+        "name": "remixdt",
+        "path": "/",
+        "sameSite": "None",
+        "secure": true,
+        "value": "3600"
+    },
+    {
+        "domain": "vk.com",
+        "expiry": 1796386986,
+        "httpOnly": false,
+        "name": "remixstid",
+        "path": "/",
+        "sameSite": "None",
+        "secure": true,
+        "value": "148557937_MIjfwFpXbAiM7GBdEaUuJPzx1P93DvXAyRKDmV5C2hL"
+    },
+    {
+        "domain": "vk.com",
+        "expiry": 1766060678,
+        "httpOnly": false,
+        "name": "adblock",
+        "path": "/",
+        "sameSite": "None",
+        "secure": true,
+        "value": "0"
+    },
+    {
+        "domain": "vk.com",
+        "expiry": 1796387075,
+        "httpOnly": false,
+        "name": "remixscreen_dpr",
+        "path": "/",
+        "sameSite": "None",
+        "secure": true,
+        "value": "1"
+    },
+    {
+        "domain": "vk.com",
+        "expiry": 1793622276,
+        "httpOnly": false,
+        "name": "tmr_lvidTS",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "1764847893928"
+    },
+    {
+        "domain": "vk.com",
+        "expiry": 1793622276,
+        "httpOnly": false,
+        "name": "tmr_lvid",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "3a2846238d7cf040c91cc514ca73d25a"
+    },
+    {
+        "domain": "vk.com",
+        "expiry": 1764930690,
+        "httpOnly": true,
+        "name": "prcl",
+        "path": "/",
+        "sameSite": "None",
+        "secure": true,
+        "value": "6f77f434766091"
+    },
+    {
+        "domain": "vk.com",
+        "expiry": 1796387075,
+        "httpOnly": false,
+        "name": "remixscreen_depth",
+        "path": "/",
+        "sameSite": "None",
+        "secure": true,
+        "value": "24"
+    },
+    {
+        "domain": "vk.com",
+        "expiry": 1766147076,
+        "httpOnly": false,
+        "name": "remixsf",
+        "path": "/",
+        "sameSite": "None",
+        "secure": true,
+        "value": "1"
+    },
+    {
+        "domain": "vk.com",
+        "expiry": 1796206311,
+        "httpOnly": true,
+        "name": "remixuacck",
+        "path": "/",
+        "sameSite": "None",
+        "secure": true,
+        "value": "287e599cf2dfbdac06"
+    },
+    {
+        "domain": "vk.com",
+        "expiry": 1767443076,
+        "httpOnly": false,
+        "name": "remixseenads",
+        "path": "/",
+        "sameSite": "None",
+        "secure": true,
+        "value": "1"
+    },
+    {
+        "domain": "vk.com",
+        "expiry": 1796386986,
+        "httpOnly": false,
+        "name": "remixstlid",
+        "path": "/",
+        "sameSite": "None",
+        "secure": true,
+        "value": "9101293293651871583_iv0szr5HEZObJbdNjMDkZiUqbgOzLY0ZS5saWY3aY5H"
+    },
+    {
+        "domain": "vk.com",
+        "expiry": 1796387076,
+        "httpOnly": false,
+        "name": "remixcolor_scheme_mode",
+        "path": "/",
+        "sameSite": "None",
+        "secure": true,
+        "value": "auto"
+    },
+    {
+        "domain": "vk.com",
+        "expiry": 1796387076,
+        "httpOnly": false,
+        "name": "remixdark_color_scheme",
+        "path": "/",
+        "sameSite": "None",
+        "secure": true,
+        "value": "1"
+    },
+    {
+        "domain": "vk.com",
+        "expiry": 1765452692,
+        "httpOnly": false,
+        "name": "remixgp",
+        "path": "/",
+        "sameSite": "None",
+        "secure": true,
+        "value": "0a74e1785799f00ffe8459911ce728ae"
+    },
+    {
+        "domain": "vk.com",
+        "expiry": 1765455879,
+        "httpOnly": false,
+        "name": "domain_sid",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": false,
+        "value": "xXsWALH3RyvAP1btciUES%3A1764851079232"
+    },
+    {
+        "domain": "vk.com",
+        "expiry": 1796377762,
+        "httpOnly": true,
+        "name": "remixsid",
+        "path": "/",
+        "sameSite": "None",
+        "secure": true,
+        "value": "1_0eD4xzxKebTNXsLNndyJlkAcdIuFyLSp9BYBe2V-bJ3yK1GMIuhocgrp-4hP6JSaE5CLWKwelW97LPrvvQTJSw"
+    },
+    {
+        "domain": "vk.com",
+        "expiry": 1796387075,
+        "httpOnly": false,
+        "name": "remixscreen_winzoom",
+        "path": "/",
+        "sameSite": "None",
+        "secure": true,
+        "value": "1"
+    },
+    {
+        "domain": "vk.com",
+        "expiry": 1796387075,
+        "httpOnly": false,
+        "name": "remixscreen_width",
+        "path": "/",
+        "sameSite": "None",
+        "secure": true,
+        "value": "1920"
+    },
+    {
+        "domain": "vk.com",
+        "expiry": 1796387075,
+        "httpOnly": false,
+        "name": "remixscreen_height",
+        "path": "/",
+        "sameSite": "None",
+        "secure": true,
+        "value": "1080"
+    },
+    {
+        "domain": "vk.com",
+        "httpOnly": false,
+        "name": "remixmaudio",
+        "path": "/",
+        "sameSite": "None",
+        "secure": true,
+        "value": "null"
+    },
+    {
+        "domain": "vk.com",
+        "expiry": 1796310269,
+        "httpOnly": false,
+        "name": "remixlang",
+        "path": "/",
+        "sameSite": "None",
+        "secure": true,
+        "value": "0"
+    }
+]
